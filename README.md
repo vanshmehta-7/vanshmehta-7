@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 💫 About Me:
-I am currently working as a  Software Engineer at the National Science Foundation. <br>I completed my Bachelor's from University of Mumbai, India. <br>I completed my Master's in Computer Science from North Carolina State University, USA. <br>I am tech enthusiast who likes learning new tricks and skills. <br>Currently diving deeper in the cloud domain with AWS Developer Associate Certification. 
+I am currently working as a  Software Engineer at the National Science Foundation. <br>I completed my Bachelor's from University of Mumbai, India. <br>I completed my Master's in Computer Science from North Carolina State University, USA. <br>I am a tech enthusiast who likes learning new tricks and skills. <br>Currently diving deeper in the cloud domain with AWS Developer Associate Certification. 
 
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-mehta-9331411b0/) 
